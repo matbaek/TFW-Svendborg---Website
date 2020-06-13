@@ -1,0 +1,60 @@
+html
+{ 
+    height: 100%;
+}
+
+*
+{ 
+    margin: 0;
+    padding: 0;
+}
+
+body
+{ 
+    font: normal .80em 'trebuchet ms', arial, sans-serif;
+    background: #FFF;
+    color: #555;
+}
+
+#content
+{ 
+    width: 1280px;
+    overflow: hidden;
+    margin: 20px auto 0 auto;
+    padding: 0 0 10px 0;
+} 
+
+table
+{ 
+    margin: 10px 0 30px 0;
+    border-collapse: collapse;
+}
+
+table tr th, table tr td
+{ 
+    color: #FFF;
+    padding: 7px 4px;
+    text-align: left;
+}
+  
+table tr td
+{ 
+    color: #47433F;
+    vertical-align: top;
+}
+
+#tester td {
+    height: 50px;
+    background: #E5E5DB;
+}
+
+#tester a {
+    text-decoration: none;
+}
+
+#tester div {
+    height: 100%;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+}
